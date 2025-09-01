@@ -1,3 +1,3 @@
-# Mohd inzamam
+# Btech Student
 This is my first Repositry
-Author inzamam
+-Author-Mohd inzamam
